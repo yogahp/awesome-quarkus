@@ -7,4 +7,4 @@
 - [x] https://quarkus.io/guides/ide-tooling
 - [x] https://quarkus.io/guides/rest-json
 - [x] https://quarkus.io/guides/getting-started-reactive
-- [ ] https://quarkus.io/guides/deploying-to-kubernetes
+- [x] https://quarkus.io/guides/deploying-to-kubernetes
